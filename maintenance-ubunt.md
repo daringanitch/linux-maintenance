@@ -1,6 +1,6 @@
-# Monthly Maintenance Routine for 10 Ubuntu Servers
+# Monthly Maintenance Routine for  Ubuntu Servers
 
-Here's a suggested monthly maintenance routine for 10 Ubuntu servers:
+Here's a suggested monthly maintenance routine for Ubuntu servers:
 
 1. **Patch Management:** Apply security updates to Ubuntu OS and other installed software packages. You can use the 'apt-get' command to update the system packages.
 2. **Check Disk Space:** Monitor the disk space usage of each server and ensure that it has sufficient space available. You can use the 'df' command to check the disk space.
